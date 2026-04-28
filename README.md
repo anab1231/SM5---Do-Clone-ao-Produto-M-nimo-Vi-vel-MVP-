@@ -22,7 +22,7 @@ Com a ascensão do **Desenvolvimento Assistido por IA**, o esforço do engenheir
 ---
 
 ## 🛠️ Estudo de Caso: NeuralMarket
-**Repositório:** `anab1231/projeto-markneural`
+**Repositório:** `anab1231/projeto-markneural:https://github.com/anab1231/projeto-markneural
 
 No projeto **NeuralMarket**, a engenharia reversa foi aplicada com foco em inovação, implementando diferenciais que superam a base de referência:
 
